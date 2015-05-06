@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentosListas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hintboxsender">Enter SuperHero</string>
+    <string name="btnsender">SEND</string>
+
+
+    <string name="item1_text">Editar</string>
+    <string name="item2_text">Eliminar</string>
+    <string name="item3_text">Llamar!</string>
+
+</resources>

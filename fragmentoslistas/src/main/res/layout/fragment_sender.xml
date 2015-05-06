@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.lica.fragmentoslistas.SenderFragment">
+
+     <EditText
+         android:id="@+id/txtBoxSender"
+         android:hint="@string/hintboxsender"
+         android:layout_height="match_parent"
+         android:layout_width="wrap_content"  />
+    <Button
+        android:id="@+id/btnSender"
+        android:text="@string/btnsender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="sendSuperHero"/>
+
+</FrameLayout>
