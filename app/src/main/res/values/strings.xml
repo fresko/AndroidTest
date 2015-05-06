@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fluviapp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_label">Please enter your name</string>
+    <string name="btn_label">Send</string>
+    <string name="toast_msg">Button Selected</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="item2">Compartir</string>
+    <string name="item3">Editar</string>
+    <string name="item4">Eliminar</string>
+
+</resources>

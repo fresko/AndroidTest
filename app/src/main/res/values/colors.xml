@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="verde">#ff3ca42e</color>
+    <color name="rojo_p">#ffe01a33</color>
+    <color name="azul">#BBcceeff</color>
+
+    <color name="colorPrimaryDark">#0097A7</color>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="textColorPrimary">#BBcceeff</color>
+    <color name="windowBackground">#B2EBF2</color>
+    <color name="navigationBarColor">#00838F</color>
+
+    </resources>
